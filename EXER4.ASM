@@ -1,5 +1,5 @@
-; Filename EXER2.ASM
-; Displaying the alphabet
+; Filename EXER4.ASM
+; Displaying the Student Information
 ; Name: Ken Horigome
 ; Date: August 15, 2025
 
